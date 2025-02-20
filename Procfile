@@ -1,1 +1,1 @@
-web: bin/start-nginx -C nginx/nginx.conf dist
+web: bin/start-nginx
