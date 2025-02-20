@@ -1,1 +1,1 @@
-web: npm install && yarn build && bin/start-nginx-static
+web: yarn install && yarn build && bin/start-nginx-static
